@@ -1,4 +1,11 @@
-# ProjetoBlog
+# Star Wars Blog 
+
+- Projeto desenvolvido durante o bootcamp Potência Tech Angular Developer - Powered By Ifood da Digital Innovation One.
+
+- O projeto foi desenvolvido com o framework Angular, este blog com posts temáticos de Star Wars foi criado com o intuito de aprender mais sobre componentização em Angular.
+
+
+## Anotações padrão do Angular: 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
